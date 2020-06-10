@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  TSP_GA2
-//
-//  Created by 吳培弘 on 2020/2/5.
-//  Copyright © 2020 吳培弘. All rights reserved.
-//
-
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
